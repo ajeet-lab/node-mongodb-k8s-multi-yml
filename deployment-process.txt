@@ -1,0 +1,5 @@
+Step I : kubectl apply -f mongo-db.yaml
+
+Step II : kubectl apply -f mongo-config.yaml
+
+Step III : kubectl apply -f node-app.yaml
